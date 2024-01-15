@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a consultant [@passionate.people](https://passionatepeople.io/)<br /><br />
+&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently working as a consultant [@passionate.people](https://passionatepeople.io/)<br /><br />
 &nbsp;&nbsp;&nbsp;🧭 &nbsp;I’m currently exploring home automations with [Home Assistant](https://www.home-assistant.io/)<br /><br />
 &nbsp;&nbsp;&nbsp;💪 &nbsp;Working on contributing more to open source so let me know if you need any help<br /><br />
 
