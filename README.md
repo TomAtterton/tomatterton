@@ -11,7 +11,7 @@ So let me know if you want to work together always excited for the next challeng
 ## Side Projects
 
 From time to time I like to keep myself busy with side projects, feel free to take a look!
-- 🍴 [Recipe Vault](https://github.com/tomatterton/recipe-vault) - app for storing, searching, and filtering recipes. Built with React, React Native, Expo, Expo SQLite, Supabase, Reanimated, React Navigation, Skia, and Zustand. Helps in meal planning and generating shopping lists.
+- 🍴 [Recipe Vault](https://github.com/tomatterton/recipe_vault) - app for storing, searching, and filtering recipes. Built with React, React Native, Expo, Expo SQLite, Supabase, Reanimated, React Navigation, Skia, and Zustand. Helps in meal planning and generating shopping lists.
 - 🎮 [AtterNoodle](https://github.com/tomatterton/atternoodle) - wordle clone game built with NextJS and TailwindCSS for parent anniversary. Uses zustand for local storage and redis for online storage to keep track of leaderboards and current users.
 
 ## Social 📱
