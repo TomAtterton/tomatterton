@@ -1,43 +1,22 @@
-&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently working as a consultant [@passionate.people](https://passionatepeople.io/)<br /><br />
-&nbsp;&nbsp;&nbsp;🧭 &nbsp;I’m currently exploring home automations with [Home Assistant](https://www.home-assistant.io/)<br /><br />
-&nbsp;&nbsp;&nbsp;💪 &nbsp;Working on contributing more to open source so let me know if you need any help<br /><br />
+# Hi, I'm Tom 👋
 
+A passionate developer with years over 9+ years experience both leading teams and creating applications that not only meet but exceed client and user expectations.
 
+I believe that creating applications requires a combination of technical skills, creativity, and innovation. That's why I'm constantly seeking new and exciting ways to push the boundaries of what's possible in app development.
 
+My deep understanding of mobile frameworks, programming languages, and software design patterns allows me to approach each project with a fresh perspective. But it's not just about the technical skills. I'm a strong communicator and collaborator, working closely with cross-functional teams to understand the needs of clients and end-users. I'm always thinking outside the box and coming up with innovative solutions to meet these needs.
 
-<hr></hr>
+So let me know if you want to work together always excited for the next challenge.
 
-### Stats
+## Side Projects
 
+From time to time I like to keep myself busy with side projects, feel free to take a look!
 
-<a  href="https://github.com/SP-XD">
+- 🎮 [AtterNoodle](https://github.com/tomatterton/atternoodle) - wordle clone game built with NextJS and TailwindCSS for parent anniversary. Uses zustand for local storage and redis for online storage to keep track of leaderboards and current users.
 
- <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=tomatterton&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+## Social 📱
 
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatterton&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
-</a>
+If you'd like to reach out, you can find me on LinkedIn or send me an email:
 
-<hr></hr>
-
-### Connect with me
-
-  <p align="center">
-  <a href="https://www.linkedin.com/in/tomatterton/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-</p>
-
-
-<!--
-**TomAtterton/tomatterton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👔 [LinkedIn](https://www.linkedin.com/in/tomatterton)
+- ✉️ [Mail Me](mailto:tomatterton.dev@gmail.com)
