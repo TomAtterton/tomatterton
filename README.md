@@ -17,6 +17,6 @@ From time to time I like to keep myself busy with side projects, feel free to ta
 ## Social 📱
 
 If you'd like to reach out, you can find me on LinkedIn or send me an email:
-
-- 👔 [LinkedIn](https://www.linkedin.com/in/tomatterton)
+https://www.linkedin.com/in/tom-atterton-48a84274/
+- 👔 [LinkedIn](https://www.linkedin.com/in/tom-atterton-48a84274)
 - ✉️ [Mail Me](mailto:tomatterton.dev@gmail.com)
